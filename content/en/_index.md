@@ -2,7 +2,7 @@
 title: Goldydocs
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
+{{< blocks/cover title="Welcome to Uganda Data: A Docsy Example Project!" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
@@ -73,5 +73,10 @@ For announcement of latest features etc.
 
 {{% blocks/section %}}
 This is the another section
+{.h1 .text-center}
+{{% /blocks/section %}}
+
+{{% blocks/section %}}
+This a test section
 {.h1 .text-center}
 {{% /blocks/section %}}
