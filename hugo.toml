@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Uganda Data"
+title = "Ssentezo Wallet"
 
 # Language settings
 contentDir = "content/en"
@@ -65,25 +65,9 @@ languageName ="English"
 weight = 1
 [languages.en.params]
 title = "Goldydocs"
-description = "A Docsy example site"
+description = "Uganda Data Site"
 
-[languages.no]
-languageName ="Norsk"
-contentDir = "content/no"
-[languages.no.params]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-time_format_default = "02.01.2006"
-time_format_blog = "02.01.2006"
 
-[languages.fa]
-languageName ="فارسی"
-contentDir = "content/fa"
-[languages.fa.params]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
@@ -100,8 +84,8 @@ time_format_blog = "2006.01.02"
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
-[outputs]
-section = ["HTML", "print", "RSS"]
+#[outputs]
+#section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "The Docsy Authors"
@@ -124,21 +108,7 @@ archived_version = false
 # current doc set.
 version = "0.0"
 
-# A link to latest version of the docs. Used in the "version-banner" partial to
-# point people to the main doc site.
-url_latest_version = "https://example.com"
 
-# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
-# An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
-
-# Specify a value here if your content directory is not in your repo's root directory
-# github_subdir = ""
-
-# Uncomment this if your GitHub repo does not have "main" as the default branch,
-# or specify a new value if you want to reference another branch in your GitHub links
-github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 gcs_engine_id = "d72aa9b2712488cc3"

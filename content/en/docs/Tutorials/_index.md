@@ -1,13 +1,11 @@
 ---
 title: Tutorials
-description: Show your user how to work through some end to end examples.
-date: 2017-01-04
+description: Follow through our tutorials to easily get started with started.
 weight: 8
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## Coming Soon
 
-Tutorials are **complete worked examples** made up of **multiple tasks** that guide the user through a relatively simple but realistic scenario: building an application that uses some of your project’s features, for example. If you have already created some Examples for your project you can base Tutorials on them. This section is **optional**. However, remember that although you may not need this section at first, having tutorials can be useful to help your users engage with your example code, especially if there are aspects that need more explanation than you can easily provide in code comments.
+We're actively working on creating tutorials to help you better understand and utilize the features of our ssentezo Wallet API. Check back soon for comprehensive tutorials that guide you through end-to-end examples, building applications, and leveraging the full potential of the ssentezo Wallet API.
 
+In the meantime, feel free to explore our [Examples](/docs/examples/) to get a glimpse of how to use specific features and functionalities. If you have any specific topics you'd like to see covered in our tutorials, please [reach out](mailto:support@ssentezo-wallet.com) and let us know! Your feedback is valuable as we shape our tutorials to meet your needs.

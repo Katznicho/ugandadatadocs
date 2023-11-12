@@ -1,35 +1,37 @@
 ---
 title: Getting Started
 description: What does your user need to know to try your project?
-categories: [Examples, Placeholders]
-tags: [test, docs]
+categories: [wallet, documentation]
+tags: [ssentezo, send, receive, getting started]
 weight: 2
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Welcome to the ssentezo wallet documentation. This guide will help you get started with using the ssentezo online wallet for managing your money online.
 {{% /pageinfo %}}
-
-Information in this section helps your user try your project themselves.
-
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
-
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
-
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
 
 ## Prerequisites
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+Before you begin, ensure that you have the following prerequisite:
 
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+- **ssentezo Account:** Visit [wallet.ssentezo.com](https://wallet.ssentezo.com) and create an account if you don't have one.
 
 ## Setup
 
-Is there any initial setup users need to do after installation to try your project?
+Once you have an account on ssentezo, follow these steps to set up your online wallet:
+
+1. Open your web browser and go to [wallet.ssentezo.com](https://wallet.ssentezo.com).
+2. Log in with your ssentezo account credentials.
+3. Follow the on-screen instructions to set up your ssentezo online wallet.
 
 ## Try it out!
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+Now that your ssentezo wallet is set up, you can start using its features:
+
+1. Access your wallet dashboard to view your current balance.
+2. Send and receive money using ssentezo.
+3. Explore additional features such as transaction history and account settings.
+
+Congratulations! You've successfully set up and started using the ssentezo online wallet. If you encounter any issues or have questions, refer to the [ssentezo documentation](https://docs.ssentezo-wallet.com) for detailed information.
+
+Feel free to customize the content further based on the specific features and setup process of the ssentezo online wallet.
